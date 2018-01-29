@@ -12,6 +12,7 @@ in PhaseIIBeam_v1-build run:
 or ./PhaseII  and in the command line 
 
 /control/execute vis.mac 
+
 /control/execute proton.mac
 
 look in proton.root for plots
