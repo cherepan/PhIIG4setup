@@ -18,7 +18,7 @@ $time= strftime("%h_%d_%Y",localtime);
 
 system(sprintf("rm Install_G4Env_*"));
 
-system(sprintf("echo \"cernlib-use geant4;\">> Install_G4Env_$time"));
+system(sprintf("echo \"/libcern/use/use.py geant4;\">> Install_G4Env_$time"));
 
 system(sprintf("echo \"cd /libcern/geant4/4.10.03-p02/sl6.6-x86_64-gate/bin/;\">> Install_G4Env_$time"));
 system(sprintf("echo \"source geant4.sh;\">> Install_G4Env_$time"));
