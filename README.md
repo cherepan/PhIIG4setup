@@ -2,7 +2,10 @@
 PhaseIIBeam_v1.tar.gz is provided by Patrick Asenov (patrickasenov@gmail.com)
 
 Quick Instruction:
+open an empty shell.
 run ./todo.pl and source created file Install_G4Env_ ...
+
+
 
 in PhaseIIBeam_v1-build run:
 
