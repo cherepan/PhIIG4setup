@@ -17,7 +17,7 @@ if($ARGV[0] eq "--help" ){
     printf("\n\n\n ========================================================================================");
     printf("\nWelcome to quick Geant4 setup.");
     printf("\n./todo.pl --help                                             Prints this message"); 
-    printf("\n./todo.pl --version <N>                                               unpack the corresponding version of file from Patrick;  ");
+    printf("\n./todo.pl --version <N>                                      Unpack the corresponding version of file from Patrick;  ");
     printf("\n  ========================================================================================\n");
     exit(0);  
 }
