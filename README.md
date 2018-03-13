@@ -3,6 +3,9 @@ PhaseIIBeam_v*.tar.gz are provided by Patrick Asenov (patrickasenov@gmail.com)
 
 Quick Instruction:
 open an empty shell.
+
+git clone https://github.com/cherepan/PhIIG4setup.git
+
 run ./todo.pl --help  for printing out the instruction. 
 
 This should look like:
