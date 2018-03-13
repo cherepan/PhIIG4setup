@@ -7,12 +7,13 @@ run ./todo.pl --help  for printing out the instruction.
 
 This should look like:
 
+```
+===================================================================================================================
 Welcome to quick Geant4 setup.
-
 ./todo.pl --help                                             Prints this message
-
 ./todo.pl --version <N>                                      Unpack the corresponding version of file from Patrick;  
-
+===================================================================================================================
+```
  
 
 
