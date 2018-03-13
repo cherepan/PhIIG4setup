@@ -20,7 +20,7 @@ Welcome to quick Geant4 setup.
  
 
 
-run ./todo.pl --version N. The most recent version is 8. 
+run ./todo.pl --version N. The most recent version is 11. 
 then source the created Install_G4Env... file to setup the workdir,
 
 
